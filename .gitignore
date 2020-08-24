@@ -1,0 +1,16 @@
+#*.gitignore
+.idea
+*.DS_Store
+!/bitrix
+/bitrix/*
+!/bitrix/templates
+/bitrix/templates/*
+!/bitrix/templates/clear
+!/bitrix/components
+/bitrix/components/*
+!/bitrix/components/clear
+!/bitrix/modules
+/bitrix/modules/*
+!/bitrix/modules/clear
+/zlog.html
+*.zip
