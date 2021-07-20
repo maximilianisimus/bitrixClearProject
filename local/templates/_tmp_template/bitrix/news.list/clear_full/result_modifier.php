@@ -13,7 +13,6 @@
 $this->setFrameMode(true);
 ?>
 <?
-foreach ($arResult["ITEMS"] as $arItem) {
+foreach ($arResult["ITEMS"] as $arItem):?>
 
-}
-?>
+<? endforeach; ?>
