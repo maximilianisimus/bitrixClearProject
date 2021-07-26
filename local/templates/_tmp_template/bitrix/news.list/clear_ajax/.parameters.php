@@ -22,5 +22,10 @@ $arTemplateParameters = array(
 		"TYPE" => "CHECKBOX",
 		"DEFAULT" => "Y",
 	),
+	"IS_AJAX" => Array(
+		"NAME" => "ajax шаблон",
+		"TYPE" => "STRING",
+		"DEFAULT" => "N",
+	),
 );
 ?>
