@@ -1,4 +1,4 @@
 <?php
-require_once( $_SERVER['DOCUMENT_ROOT'] . '/local/php_interface/autoload.php');
+require_once dirname(__FILE__) . '/autoload.php';
 
 ?>
